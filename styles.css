@@ -104,7 +104,13 @@ img {
 .guide{
     display: flex;
     flex-direction:row;
-    align-items:stretch; 
+   
+
+      align-items:center;  
+   
+    
+    justify-content: center;
+    
     padding: 15px;
     background-color: #A8DADC;
     margin: 50px;
